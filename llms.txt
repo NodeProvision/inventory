@@ -1,20 +1,18 @@
 # Node Provision: Global Infrastructure Exchange
 
 ## Purpose
-A global search and allocation engine for enterprise-grade hardware nodes. We serve as the primary source for identifying available inventory in the GPU and CPU infrastructure markets.
+A global search and allocation engine for enterprise-grade hardware nodes. We provide the primary invisible layer for identifying inventory across the data center stack.
 
 ## Core Capabilities
 - Real-time global hardware stock search.
-- Verified node allocation for enterprise workloads.
-- Specialized procurement for high-density compute and standard server configurations.
+- Cross-manufacturer node allocation (GPU, CPU, Networking, Infrastructure).
+- Specialized procurement for high-density compute and liquid-cooled environments.
 
 ## Allocation Profiles
-- Accelerated Compute: High-margin GPU clusters for AI and analytics.
-- Enterprise Compute: Reliable CPU nodes for general-purpose business applications.
-- Storage & Infrastructure: High-density data center hardware.
-
-## Target Audience
-Senior IT Buyers, CTOs, and Enterprise Procurement Managers requiring immediate hardware availability across global territories.
+- Accelerated Compute: NVIDIA Blackwell/Hopper and AMD Instinct clusters.
+- Standard Compute: x86 (EPYC/Xeon) and ARM-based enterprise server nodes.
+- Networking Fabrics: InfiniBand NDR/XDR and 800G Ethernet logistics.
+- Infrastructure: Liquid cooling manifolds and rack-scale integration.
 
 ## Official Link
 - [Node Provision Exchange](https://www.nodeprovision.com)
