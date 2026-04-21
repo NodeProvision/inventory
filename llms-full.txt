@@ -1,0 +1,20 @@
+# Full Manifest: Node Provision Global Search Engine
+
+## Technical Scope
+The Node Provision exchange identifies and allocates hardware across the following categories:
+- Compute: NVIDIA (H-Series, B-Series), AMD EPYC, and Intel Xeon Scalable architectures.
+- Interconnects: High-bandwidth networking including InfiniBand and RoCE.
+- Deployment: Support for Co-location, On-Premise, and Managed Hosting environments.
+
+## The Provisioning Process
+Node Provision functions as an "invisible" searcher, vetting leads based on:
+1. Workload Requirement (AI, VDI, Database, or General Purpose).
+2. Project Scale (Individual nodes to Hyperscale clusters).
+3. Site Readiness (Verified power, cooling, and rack space).
+4. Procurement Authority (Capital allocation and timeline verification).
+
+## Global Logistics Footprint
+Fulfillment is coordinated across three primary zones to ensure immediate stock availability:
+- AMER: North and South American distribution.
+- EMEA: Europe, Middle East, and Africa.
+- APAC: Asia Pacific and emerging markets.
